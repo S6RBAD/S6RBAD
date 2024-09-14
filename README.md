@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @S6RBAD
-
+- 👋 Hi, I’m @S6RKING
 
 <!---
 S6RBAD/S6RBAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
